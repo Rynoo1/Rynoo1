@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Header Banner](assets/header.png)
+![Header Banner](assets/banner.png)
 
 ### About Me
 
