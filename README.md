@@ -1,11 +1,8 @@
-## Hi there 👋
-
 ![Header Banner](assets/banner.png)
 
 ### About Me
 
-I am a full stack developer who is passionate about backend. I enjoy designing and developing creative solutions that are cutting-edge and imaginative, yet still user-centric. In my free time, I enjoy gaming, playing squash and 
-
+I am a full stack developer who is passionate about backend. I enjoy designing and developing creative solutions that are cutting-edge and imaginative, yet still user-centric. In my free time, I enjoy gaming and playing squash and golf.
 I am currently completing my studies in Creative Technologies at Open Window, majoring in Interactive Development.
 
 ***
