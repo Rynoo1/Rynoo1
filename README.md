@@ -23,15 +23,15 @@ I am currently completing my studies in Creative Technologies at Open Window, ma
 ### Featured Projects
 <div align="center">
   <a href="https://github.com/Rynoo1/MoxBackend">
-    <img align="center" src="https://github-readme-stats-mauve-rho-74.vercel.app/api/pin/?username=Rynoo1&repo=MoxBackend&theme=radical" />
+    <img align="center" src="https://github-readme-stats-mauve-rho-74.vercel.app/api/pin/?username=Rynoo1&repo=MoxBackend&cache_seconds=43200&theme=radical" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Rynoo1/LokdIn">
-    <img align="center" src="https://github-readme-stats-mauve-rho-74.vercel.app/api/pin/?username=Rynoo1&repo=LokdIn&theme=radical" />
+    <img align="center" src="https://github-readme-stats-mauve-rho-74.vercel.app/api/pin/?username=Rynoo1&repo=LokdIn&cache_seconds=43200&theme=radical" />
   </a>
   <br><br>
   <a href="https://github.com/Rynoo1/PicSort">
-    <img align="center" src="https://github-readme-stats-mauve-rho-74.vercel.app/api/pin/?username=Rynoo1&repo=PicSort&theme=radical" />
+    <img align="center" src="https://github-readme-stats-mauve-rho-74.vercel.app/api/pin/?username=Rynoo1&repo=PicSort&cache_seconds=43200&theme=radical" />
   </a>
 </div>
 
